@@ -1,4 +1,4 @@
-# Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis
 
 Este projeto realiza uma análise exploratória dos dados de vendas de pizzas, utilizando **Python**, **SQL (SQLite)** e visualizações gráficas. O objetivo é extrair insights relevantes de negócio, como pizzas mais vendidas, ticket médio, categorias com maior receita e padrões de consumo ao longo do tempo.
 
@@ -63,6 +63,7 @@ cd pizza-sales-analysis
 ## Autor
 
 **Gustavo Brandão**
+
 📧 E-mail: gubrandaods@gmail.com  
 🐙 GitHub: [github.com/gubrandaods7](https://github.com/gubrandaods7)  
 🔗 LinkedIn: [linkedin.com/in/gustavo-brandao-0b7635197](https://www.linkedin.com/in/gustavo-brandao-0b7635197)
