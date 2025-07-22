@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis
 
-Este projeto realiza uma análise exploratória dos dados de vendas de pizzas, utilizando **Python**, **SQL (SQLite)** e visualizações gráficas. O objetivo é extrair insights relevantes de negócio, como pizzas mais vendidas, ticket médio, categorias com maior receita e padrões de consumo ao longo do tempo.
+Este projeto realiza uma análise exploratória dos dados de vendas de pizzas, utilizando **Python**, **SQL (SQLite)** e visualizações gráficas. O objetivo é extrair insights relevantes de negócio.
 
 ---
 
@@ -43,11 +43,11 @@ Durante a análise exploratória, foram respondidas as seguintes perguntas com S
 
 ## Tecnologias Utilizadas
 
-- Python 3.x
+- Python
 - Jupyter Notebook
 - SQLite (via `sqlite3`)
 - Pandas
-- Matplotlib / Seaborn *(opcional para gráficos)*
+- Matplotlib / Seaborn
 
 ---
 
